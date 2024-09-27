@@ -1,0 +1,56 @@
+.f1{
+    background-color:#68EDD3;
+    color: #9E17EB;
+    width: 400px;
+    height: 150px;
+    text-align: center;
+}
+
+.f2{
+    background-color:#68B2ED;
+    color:#1214B0 ;
+    width: 400px;
+    height: 150px;
+    text-align: center;
+}
+
+.f3{
+    background-color:#68DBED;
+    color:#4412B0 ;
+    ;
+    width: 400px;
+    height: 150px;
+    text-align: center;
+}
+
+.f4{
+    background-color:#6EF5AD;
+    color:#1279B0;
+    width: 400px;
+    height: 150px;
+    text-align: center;
+}
+
+.f5{
+    background-color:#6888ED ;
+    color:#D04513;
+    width: 400px;
+    height: 150px;
+    text-align: center;
+}
+
+body{
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(97,133,203,1) 0%, rgba(186,101,160,1) 93%);
+}
+.hf1{
+    color:#C31906 ;
+}
+
+h4{
+    background-color: #9E17EB;
+    color: #6888ED;
+    width: 400px;
+    height: 50px;
+    text-align: center;
+}
